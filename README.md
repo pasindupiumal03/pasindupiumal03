@@ -5,7 +5,7 @@
 
 <!-- Header Section -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=007BFF&lines=Hi+there+👋;I'm+Pasindu+Piumal!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=00FFFF&lines=Hi+there+👋;I'm+Pasindu+Piumal!" alt="Typing SVG" />
 </h1>
 
 ---
@@ -57,19 +57,19 @@
 
 ## 🔗 Links
 <p align="center">
-  <a href="https://pasindupiumal03.github.io" target="_blank">
+  <a href="https://pasindupiumal03.github.io" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-0078FF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/pasindu-piumalxyz/" target="_blank">
+  <a href="https://www.linkedin.com/in/pasindu-piumalxyz/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/pasindupiumal03" target="_blank">
+  <a href="https://github.com/pasindupiumal03" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:pasindupiumal0123@gmail.com" target="_blank">
+  <a href="mailto:pasindupiumal0123@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/pasindupiumal03/pasindupiumal03/raw/main/Pasindu_Piumal_Resume.pdf" target="_blank">
+  <a href="https://github.com/pasindupiumal03/pasindupiumal03/raw/main/Pasindu_Piumal_Resume.pdf" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Resume-0078FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
 </p>
@@ -89,12 +89,10 @@
 
 ## 📊 Contribution Graph
 <p align="center">
-  <!-- Green contribution graph -->
-  <img src="https://github-readme-stats.vercel.app/api?username=pasindupiumal03&show_icons=false&hide_title=true&hide_border=true&count_private=true&include_all_commits=true" width="0" height="0">
-  <img src="https://github.com/pasindupiumal03/pasindupiumal03/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <!-- Custom snake animation -->
+  <img src="https://raw.githubusercontent.com/pasindupiumal03/pasindupiumal03/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
-> 🐍 **Tip:** The snake animation updates automatically using GitHub Actions. See setup below.
 
 ---
 
@@ -112,5 +110,5 @@
 
 <!-- Footer -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=007BFF&lines=I'm+always+down+to+collab+:);Thanks+For+Visiting!" alt="Footer Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=00FFFF&lines=I'm+always+down+to+collab+:);Thanks+For+Visiting!" alt="Footer Typing Animation" />
 </h1>
