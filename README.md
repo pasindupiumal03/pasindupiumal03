@@ -57,7 +57,7 @@
 
 ## 🔗 Links
 <p align="center">
-  <a href="https://pasindupiumal03.github.io" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.pasindu-dev.me/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-0078FF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/pasindu-piumalxyz/" target="_blank" rel="noopener noreferrer">
