@@ -108,6 +108,17 @@
 
 ---
 
+<!-- ⭐ Buy Me a Coffee Button -->
+<p align="center">
+  <a href="https://www.buymeacoffee.com/pasinduweerakoon" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
+         alt="Buy Me A Coffee"
+         style="height: 60px !important; width: 217px !important;" />
+  </a>
+</p>
+
+---
+
 <!-- Footer -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=00FFFF&lines=I'm+always+down+to+collab+:);Thanks+For+Visiting!" alt="Footer Typing Animation" />
