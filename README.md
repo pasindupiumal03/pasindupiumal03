@@ -87,26 +87,6 @@
 
 ---
 
-## 📊 Contribution Graph
-<p align="center">
-  <!-- Custom snake animation -->
-  <img src="https://raw.githubusercontent.com/pasindupiumal03/pasindupiumal03/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
-
----
-
-## 📈 Stats & Streaks
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pasindupiumal03&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=pasindupiumal03&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindupiumal03&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
----
 
 <!-- ⭐ Buy Me a Coffee Button -->
 <p align="center">
